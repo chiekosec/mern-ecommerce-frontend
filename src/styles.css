@@ -1,0 +1,28 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+body {
+  background: #343a40;
+  font-size: 0.9em;
+  color: black;
+}
+
+footer {
+  background-color: rgb(113, 187, 255);
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
